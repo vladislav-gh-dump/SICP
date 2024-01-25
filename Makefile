@@ -7,6 +7,6 @@ test:
 
 lint:
 	@echo "check codestyle"
-	@(for f in $$(find sicp -name '*.rkt'); do raco review $$f; done)
+	@(for f in $$(find example-for-test -name '*.rkt'); do raco review $$f; done)
 
 .PHONY: test
