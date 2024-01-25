@@ -1,7 +1,7 @@
 # My SICP problems solutions
-> Repository was prepared with [Sicp Racket Boilerplate](https://github.com/hexlet-boilerplates/sicp-racket?tab=readme-ov-file)
+> The repository was prepared with [Sicp Racket Boilerplate](https://github.com/hexlet-boilerplates/sicp-racket?tab=readme-ov-file).
 
-> In folder 'my-solutions' you can find README file with ['To-do-list problems solutions'](https://github.com/vladislav-gh-dump/SICP/blob/main/my-solutions/README.md)
+> In folder 'my-solutions' you can find README file with ['To-do-list problems solutions'](https://github.com/vladislav-gh-dump/SICP/blob/main/my-solutions/README.md) for tracking your progress or you can use ['Hexlet SICP'](https://sicp.hexlet.io/) for the same.
 
 ### Tests and linter status:
 [![Actions Status](https://github.com/vladislav-gh-dump/SICP/actions/workflows/racketci.yml/badge.svg)](https://github.com/vladislav-gh-dump/SICP/actions)
