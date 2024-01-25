@@ -1,4 +1,4 @@
-# SICP problems solutions
+# Template for SICP problems solutions
 > The repository was prepared with [`Sicp Racket Boilerplate`](https://github.com/hexlet-boilerplates/sicp-racket?tab=readme-ov-file).
 
 ### Tests and linter status:
