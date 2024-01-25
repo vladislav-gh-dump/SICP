@@ -19,8 +19,8 @@ You can use the following free materials for studying:
 
 ## Using
 1.  Copy content of my repo
-2.  If you want to track your progress, use command `make todolist` (!use it only once, cos this command overwrites README file `my-solutions/README.md`). Also you can use [`Hexlet SICP`](https://sicp.hexlet.io/) for the same.
-3.  Write code (look `my-solutions/example/0.rkt`)
-4.  Run tests `make test`
-5.  Run linter `make lint`
+2.  Write code (look `my-solutions/example.rkt`)
+3.  Run tests `make test`
+4.  Run linter `make lint`
 
+> In folder `my-solutions` you can find README file with [`To-do-list problems solutions`](https://github.com/vladislav-gh-dump/SICP/blob/main/my-solutions/README.md) for tracking your progress or you can use [`Hexlet SICP`](https://sicp.hexlet.io/) for the same. 

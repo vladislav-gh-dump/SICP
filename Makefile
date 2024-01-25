@@ -1,8 +1,3 @@
-todolist:
-	@cat .rep/default/to-do-list > my-solutions/README.md
-	@echo "DONE!"
-	@echo "Look my-solutions/README.md"
-
 install:
 	raco pkg install sicp
 	raco pkg install review
